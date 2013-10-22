@@ -12,9 +12,9 @@ import org.slf4j.LoggerFactory;
  * Hello world!
  * 
  */
-public class FileJava {
+public class RouteBuilderExample {
 
-	private static Logger logger = LoggerFactory.getLogger(FileJava.class
+	private static Logger logger = LoggerFactory.getLogger(RouteBuilderExample.class
 			.getName());
 
 	public static void main(String[] args) throws Exception {
