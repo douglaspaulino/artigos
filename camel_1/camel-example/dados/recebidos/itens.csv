@@ -1,0 +1,13 @@
+numeroPedido,numeroCliente,tipoEntrega,valorFatura
+10,00001,retirada_local,120
+20,00002,envio_sedex,987
+30,00003,retirada_local,120
+40,00004,envio_sedex,2000
+50,00005,download,120
+60,00006,envio_sedex,100
+70,00007,retirada_local,120
+80,00008,envio_sedex,1000
+90,00009,retirada_local,580
+100,00010,download,800
+110,00011,retirada_local,34
+120,00012,envio_sedex,6055
